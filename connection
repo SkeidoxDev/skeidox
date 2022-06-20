@@ -1,4 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/lb/main/legendhub"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkeidoxDev/skeidox/main/spychat%20for%20stay%20alive"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkeidoxDev/skeidox/main/spychat"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SkeidoxDev/skeidox/main/mainExploit"))()
